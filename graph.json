@@ -1,0 +1,14 @@
+{"nodes":[
+{"node":0,"name":"node0","image":"images/pronari.png","distance":100},
+{"node":1,"name":"node1","image":"images/prosadaf.png","distance":200},
+{"node":2,"name":"node2","image":"images/prosteph.png","distance":50},
+{"node":3,"name":"node3","image":"images/prochi.png","distance":300},
+{"node":4,"name":"node4","image":"images/prosadaf.png","distance":150}
+],
+
+"links":[
+{"source":0,"target":1,"gender":"male","distance":300},
+{"source":1,"target":2,"gender":"female","distance":400},
+{"source":1,"target":3,"gender":"male","distance":200},
+{"source":4,"target":1,"gender":"female","distance":150}
+]}

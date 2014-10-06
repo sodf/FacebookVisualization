@@ -1,0 +1,64 @@
+.popup-container {
+  height: 100px;
+  width: 200px;
+  background-color: #66CCFF;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-align: left;
+  float: left;
+}
+
+.popup-left {
+  height: 100px;
+  width: 70px;
+  float: left;
+}
+
+.popup-like-icon {
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+.popup-like{
+  height: 50px;
+  width: 20px;
+  line-height: 50px;
+  float: left;
+}
+
+.popup-comment-icon {
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+.popup-comment {
+  height: 50px;
+  line-height: 50px;
+  width: 20px;
+  float: left;
+}
+
+.popup-picture {
+  height: 100px;
+  width: 130px;
+  float: left;
+}
+
+.msg-icon {
+  padding: 11px;
+}
+
+.linkFemale {
+  stroke: #FFC0CB;
+}
+
+.linkMale {
+  stroke: #66ccff;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
